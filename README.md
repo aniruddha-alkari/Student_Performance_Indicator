@@ -174,10 +174,7 @@ Interactive user interface allowing users to:
 
 ## 📷 Application Screenshots
 
-![App Screenshot](screenshots\Screenshot 2026-06-24 130323.png)
-
-
-![App Screenshot](screenshots\Screenshot 2026-06-24 130522.png)
+<img width="1101" height="750" alt="Image" src="https://github.com/user-attachments/assets/33bf83ed-6463-4acc-b100-b1525a69662c" />
 
 
 ---
