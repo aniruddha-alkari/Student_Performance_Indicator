@@ -174,10 +174,10 @@ Interactive user interface allowing users to:
 
 ## 📷 Application Screenshots
 
-![alt text](screenshots\Screenshot 2026-06-24 130323.png)
+![App Screenshot](screenshots\Screenshot 2026-06-24 130323.png)
 
 
-![alt text](screenshots\Screenshot 2026-06-24 130522.png)
+![App Screenshot](screenshots\Screenshot 2026-06-24 130522.png)
 
 
 ---
