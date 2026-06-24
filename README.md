@@ -177,7 +177,7 @@ Interactive user interface allowing users to:
 ![App Screenshot](screenshots\Screenshot 2026-06-24 130323.png)
 
 
-![App Screenshot](screenshots\Screenshot 2026-06-24 130522.png)
+![alt text](screenshots\Screenshot 2026-06-24 130522.png)
 
 
 ---
