@@ -215,7 +215,7 @@ The project includes an interactive **Streamlit application** where users can:
 ## Home Page
 
 <p align="center">
-<img src="Screenshot/Home.png" width="900">
+<img width="593" height="464" alt="1" src="https://github.com/user-attachments/assets/17bbb651-b982-4ff9-97d8-80b6947b932a" />
 </p>
 
 ---
@@ -223,7 +223,7 @@ The project includes an interactive **Streamlit application** where users can:
 ## Prediction Page
 
 <p align="center">
-<img src="Screenshot/Prediction.png" width="900">
+<img width="570" height="432" alt="2" src="https://github.com/user-attachments/assets/c83a01d7-8cf0-48df-a592-d2f0dde142ab" />
 </p>
 
 ---
